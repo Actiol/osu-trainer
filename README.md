@@ -1,3 +1,7 @@
+# this fork
+- i replaced the usage of mp3s with oggs for better quality and timing
+- i made it properly read the filetype instead of using the file extension as the filetype
+
 # osu-trainer
 A program that allows you to modify the difficulty of a beatmap **very quickly and easily**.
 
